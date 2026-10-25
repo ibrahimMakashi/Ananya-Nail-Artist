@@ -50,8 +50,8 @@ export function ServicesSection({ onSelectService }) {
                     </span>
                   )}
 
-                  {/* Price Tag Overlay */}
-                  <div className="absolute bottom-4 right-4 px-3 py-1 bg-[#231A19]/80 backdrop-blur-md text-xs font-serif text-[#F8F5F0] rounded-full">
+                  {/* Prominent High-Visibility Price Tag Overlay */}
+                  <div className="absolute bottom-4 right-4 px-3.5 py-1.5 bg-[#B65C70] text-white text-sm sm:text-base font-serif font-bold tracking-wide rounded-full shadow-lg border border-white/30 backdrop-blur-md">
                     {service.price}
                   </div>
                 </div>
@@ -65,10 +65,15 @@ export function ServicesSection({ onSelectService }) {
                       <span>{service.duration}</span>
                     </div>
 
-                    {/* Title */}
-                    <h3 className="font-serif text-2xl text-[#302321] group-hover:text-[#B65C70] transition-colors leading-tight mb-2.5">
-                      {service.title}
-                    </h3>
+                    {/* Title & Prominent Card Price */}
+                    <div className="flex items-baseline justify-between gap-3 mb-2.5">
+                      <h3 className="font-serif text-2xl text-[#302321] group-hover:text-[#B65C70] transition-colors leading-tight">
+                        {service.title}
+                      </h3>
+                      <span className="font-serif text-xl sm:text-2xl font-bold text-[#B65C70] whitespace-nowrap bg-[#F2ECE5] px-2.5 py-0.5 rounded-lg border border-[#E2D8CF]">
+                        {service.price}
+                      </span>
+                    </div>
 
                     {/* Description */}
                     <p className="text-sm text-[#5C4D4A] font-light leading-relaxed line-clamp-3">

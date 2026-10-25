@@ -1,7 +1,6 @@
 /**
  * Team members data for ANANYA NAIL ATELIER
- * Ananya is the primary owner and lead artist.
- * Supporting specialists are configurable placeholders until confirmed by studio owner.
+ * Featuring professional, elegant female nail artisans and specialists
  */
 
 export const teamMembers = [
@@ -35,10 +34,10 @@ export const teamMembers = [
   {
     id: 'elena',
     name: 'Elena',
-    role: 'Spa Ritual & Pedicure Lead',
+    role: 'Structured Gel & Natural Nail Specialist',
     experience: '7 Years Experience',
-    bio: 'Dedicated to restorative cuticle hydration, medical-grade hygiene, and reflexology hand massage.',
+    bio: 'Dedicated to natural nail health, dry e-file cuticle precision, and long-wear Japanese overlays.',
     image: 'https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=700&q=80',
-    alt: 'Elena, Spa Ritual and Pedicure Lead',
+    alt: 'Elena, Structured Gel and Natural Nail Specialist',
   },
 ];

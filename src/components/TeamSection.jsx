@@ -15,9 +15,9 @@ export function TeamSection() {
         
         {/* Section Heading */}
         <SectionHeading
-          eyebrow="OUR TEAM"
-          title="The Faces Behind the Beauty"
-          subtitle="Meet the certified nail artisans, gel architects, and spa therapists dedicated to perfection."
+          eyebrow="OUR ARTISANS"
+          title="Meet Our Master Nail Artists"
+          subtitle="Meet the certified nail artisans, gel architects, and design specialists dedicated to your signature look."
           centered={true}
         />
 

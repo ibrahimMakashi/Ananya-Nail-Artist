@@ -1,6 +1,6 @@
 /**
  * Service catalog for ANANYA NAIL ATELIER
- * 6 core services with curated INR pricing for Bengaluru
+ * Strictly 100% nail services with curated INR pricing for Bengaluru
  */
 
 export const services = [
@@ -9,7 +9,7 @@ export const services = [
     title: 'Gel Extensions',
     subtitle: 'Sculpted Length & Natural Strength',
     description:
-      'Beautiful, durable extensions tailored to your desired length and shape. Using flexible, hypoallergenic builder gels that protect your natural nail bed.',
+      'Custom-sculpted extensions tailored to your desired length and shape. Using flexible, hypoallergenic Japanese builder gels that protect your natural nail bed.',
     duration: '90 - 120 mins',
     price: 'from ₹2,800',
     image: 'https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=800&q=80',
@@ -18,10 +18,10 @@ export const services = [
   },
   {
     id: 'nail-clipping-shaping',
-    title: 'Nail Clipping & Shaping',
-    subtitle: 'Precision Prep & Clean Silhouette',
+    title: 'Nail Clipping & Precision Shaping',
+    subtitle: 'Silhouette Refinement & Apex Architecture',
     description:
-      'Careful nail preparation, shaping, and cuticle finishing. Perfect for maintaining pristine nail symmetry, clean contours, and healthy growth.',
+      'Detailed nail clipping, contour shaping (almond, square, coffin, squoval, or stiletto), dry e-file cuticle care, and balancing natural nail symmetry.',
     duration: '45 mins',
     price: 'from ₹1,200',
     image: 'https://images.unsplash.com/photo-1604654894611-6973b376cbde?auto=format&fit=crop&w=800&q=80',
@@ -33,7 +33,7 @@ export const services = [
     title: 'Artistic & Custom Nail Art',
     subtitle: 'Handcrafted Couture Artwork',
     description:
-      'Creative nail designs ranging from minimalist micro-French details to intricate runway-inspired statement art, chrome glaze, and bespoke motifs.',
+      'Creative nail designs ranging from minimalist micro-French lines to intricate runway-inspired statement art, 3D gel textures, and bespoke hand-painted motifs.',
     duration: '75 - 105 mins',
     price: 'from ₹2,400',
     image: 'https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80',
@@ -45,7 +45,7 @@ export const services = [
     title: 'Glitter & Glam Nails',
     subtitle: 'Luminous Shimmer & Special Occasions',
     description:
-      'Elegant sparkle, holographic shimmer, and special-occasion designs. Subtly sophisticated light-catching foils and high-gloss diamond topcoats.',
+      'Multi-dimensional sparkle, holographic glitter ombré, and celebration designs sealed with high-gloss diamond topcoats for durable, mirror-shine wear.',
     duration: '60 - 90 mins',
     price: 'from ₹2,200',
     image: 'https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80',
@@ -53,27 +53,27 @@ export const services = [
     badge: 'Trending',
   },
   {
-    id: 'spa-manicure',
-    title: 'Spa Manicure',
-    subtitle: 'Restorative Hand Therapy & Polish',
+    id: 'chrome-glazed-nails',
+    title: 'Glazed Chrome & Mirror Nails',
+    subtitle: 'Haute Glazed-Donut & Liquid Chrome',
     description:
-      'A deeply relaxing manicure with gentle botanical exfoliation, warm lavender towels, nourishing cuticle care, and a long-lasting polished finish.',
-    duration: '60 mins',
-    price: 'from ₹1,800',
-    image: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80',
-    alt: 'Relaxing spa manicure massage with warm herbal oils and botanical towels',
-    badge: 'Wellness',
+      'The viral glazed-donut finish, iridescent chrome powders, and pearl mirror sheens buffed over premium builder gel for high-fashion reflective luster.',
+    duration: '60 - 75 mins',
+    price: 'from ₹2,500',
+    image: 'https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?auto=format&fit=crop&w=800&q=80',
+    alt: 'Pastel iridescent powder blue chrome glazed manicure with high gloss',
+    badge: 'Haute Trend',
   },
   {
-    id: 'pedicure',
-    title: 'Pedicure',
-    subtitle: 'Holistic Foot Care & Rejuvenation',
+    id: 'structured-gel-overlay',
+    title: 'Structured Gel Overlay',
+    subtitle: 'Natural Apex Reinforcement & E-File Prep',
     description:
-      'Aromatic warm foot bath, gentle callus smoothing, precision cuticle and toenail shaping, finished with hydrating massage and flawless high-gloss lacquer.',
-    duration: '60 mins',
-    price: 'from ₹1,950',
-    image: 'https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?auto=format&fit=crop&w=800&q=80',
-    alt: 'Luxury pedicure foot soak surrounded by soft foam and fresh rose petals',
-    badge: 'Ritual',
+      'Japanese structured builder gel overlay to reinforce weak natural nails, align the apex curve, and provide 4+ weeks of strong, chip-free durability.',
+    duration: '75 - 90 mins',
+    price: 'from ₹2,100',
+    image: 'https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80',
+    alt: 'Flawless structured almond French manicure overlay with reinforced apex',
+    badge: 'Healthy Nails',
   },
 ];

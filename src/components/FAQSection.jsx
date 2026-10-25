@@ -36,8 +36,8 @@ export function FAQSection() {
               <div className="relative">
                 <div className="aspect-[4/5] rounded-full overflow-hidden shadow-2xl border-4 border-white bg-[#F2ECE5]">
                   <img
-                    src="https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
-                    alt="Restorative hand therapy with botanical oils and cuticle elixir"
+                    src="https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80"
+                    alt="Close-up of glazed almond manicure with pristine nail shaping and cuticles"
                     className="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-700"
                     loading="lazy"
                   />

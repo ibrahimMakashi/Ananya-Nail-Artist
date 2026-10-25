@@ -25,8 +25,8 @@ export function DiscountSection({ onOpenBooking }) {
       {/* Atmospheric Background Photograph with Dark Vignette */}
       <div className="absolute inset-0 z-0 opacity-20 mix-blend-luminosity pointer-events-none">
         <img
-          src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=80"
-          alt="Atmospheric nail studio texture"
+          src="https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1600&q=80"
+          alt="Close up of luxury manicured hands with gold rings"
           className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#231A19] via-[#231A19]/80 to-[#231A19]" />

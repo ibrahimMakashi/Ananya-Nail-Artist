@@ -82,7 +82,7 @@ export function AboutSection({ onOpenBooking }) {
           <div className="lg:col-span-6 xl:col-span-6">
             <div className="relative max-w-lg mx-auto lg:max-w-none">
               
-              {/* Top Collage Photo: Hands Framing Face */}
+              {/* Top Collage Photo: Precision Gel Nail Art Sculpture */}
               <motion.div
                 initial={{ opacity: 0, y: 30 }}
                 whileInView={{ opacity: 1, y: 0 }}
@@ -91,8 +91,8 @@ export function AboutSection({ onOpenBooking }) {
                 className="relative ml-auto w-[75%] sm:w-[320px] aspect-[4/5] rounded-3xl overflow-hidden shadow-xl border-4 border-[#F8F5F0] z-10 hover:scale-[1.02] transition-transform duration-500"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1588516903720-8ceb67f9ef84?auto=format&fit=crop&w=800&q=80"
-                  alt="Editorial portrait of woman in green sweater resting hands with immaculate manicure"
+                  src="https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=800&q=80"
+                  alt="Close-up of master nail artist precision sculpting gel extensions with fine brush"
                   className="w-full h-full object-cover object-center"
                   loading="lazy"
                 />

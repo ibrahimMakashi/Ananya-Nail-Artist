@@ -10,11 +10,11 @@ export function DarkPromoSection({ onOpenBooking }) {
       aria-label="Atelier Experience"
       className="relative bg-[#171513] text-[#F8F5F0] py-20 md:py-28 lg:py-32 overflow-hidden"
     >
-      {/* Background ambient salon image with soft overlay */}
+      {/* Background ambient nail artistry with soft overlay */}
       <div className="absolute inset-0 opacity-15 mix-blend-luminosity pointer-events-none">
         <img
-          src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1600&q=80"
-          alt="Luxury nail salon ambience"
+          src="https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=1600&q=80"
+          alt="Luxury nail art creation ambience"
           className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-[#171513] via-[#171513]/90 to-[#171513]" />

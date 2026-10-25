@@ -8,7 +8,7 @@ export const faqs = [
     id: 'faq-1',
     question: 'What services do you offer?',
     answer:
-      'We specialize in premium nail care including sculpted gel extensions, Japanese structured builder manicures, bespoke hand-painted nail art, chrome & glazed donut finishes, restorative spa manicures, and aromatic pedicure rituals. Every service includes precision dry cuticle prep and high-grade hydration.',
+      'We specialize exclusively in high-end nail services including sculpted gel extensions, Japanese structured builder manicures, bespoke hand-painted nail art, chrome & glazed donut finishes, and precision clipping & shaping. Every service includes dry e-file cuticle prep and non-toxic Japanese gel overlays.',
   },
   {
     id: 'faq-2',

@@ -317,15 +317,15 @@ export function ContactSection({ selectedServiceId }) {
             </AnimatedReveal>
           </div>
 
-          {/* Right Column: Editorial Portrait in Organic Oval Frame */}
+          {/* Right Column: Editorial Artist Portrait in Organic Oval Frame */}
           <div className="lg:col-span-5 flex justify-center">
             <AnimatedReveal delay={0.25} className="w-full max-w-sm sm:max-w-md">
               <div className="relative">
                 {/* Organic Circular / Arch Frame */}
                 <div className="aspect-[4/5] sm:aspect-square rounded-full overflow-hidden shadow-2xl border-8 border-white bg-[#F2ECE5]">
                   <img
-                    src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80"
-                    alt="Ananya, smiling master nail artist in chic black atelier shirt"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAystscxkDwfJZryRbnMi6pzms-wBko37P0rvMQlOtlw&s=10"
+                    alt="Ananya, Master Nail Artist welcoming you for bespoke nail appointments"
                     className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-700"
                     loading="lazy"
                   />
