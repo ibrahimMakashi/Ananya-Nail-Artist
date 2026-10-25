@@ -186,7 +186,7 @@ export function ContactSection({ selectedServiceId }) {
                           name="phone"
                           value={formData.phone}
                           onChange={handleChange}
-                          placeholder="+1 (555) 000-0000"
+                          placeholder="+91 98765 43210"
                           className="w-full px-4 py-3 rounded-xl bg-[#F8F5F0] border border-[#E2D8CF] focus:outline-none focus:border-[#B65C70] focus:ring-1 focus:ring-[#B65C70] text-sm text-[#302321] placeholder-[#A99A8E] transition-all"
                         />
                       </div>

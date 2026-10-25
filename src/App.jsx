@@ -18,6 +18,8 @@ import { Footer } from './components/Footer';
 import { OversizedWordmark } from './components/OversizedWordmark';
 import { BookingModal } from './components/BookingModal';
 import { BackToTop } from './components/BackToTop';
+import { CustomNailCursor } from './components/CustomNailCursor';
+import { SparkleClickEffect } from './components/SparkleClickEffect';
 
 export default function App() {
   // Initialize Lenis smooth scroll
@@ -49,6 +51,12 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#F8F5F0] text-[#302321] selection:bg-[#E8C8C7] selection:text-[#302321] font-sans">
       
+      {/* Custom Desktop Nail-Shaped Cursor */}
+      <CustomNailCursor />
+
+      {/* Interactive Sparkle Click & Tap Burst Effect */}
+      <SparkleClickEffect />
+
       {/* 1. Thin Top Announcement Bar */}
       <AnnouncementBar onOpenBooking={() => handleOpenBooking()} />
 
@@ -68,7 +76,7 @@ export default function App() {
       {/* Main Content Sections */}
       <main id="main-content">
         
-        {/* Section 2: Split Luxury Hero */}
+        {/* Section 2: Split Luxury Hero with Atmospheric Video Background */}
         <Hero onOpenBooking={() => handleOpenBooking()} />
 
         {/* Section 3: About the Studio */}

@@ -32,7 +32,7 @@ export const faqs = [
     id: 'faq-5',
     question: 'How can I book an appointment?',
     answer:
-      'You can reserve your visit directly through our online booking form on this website, call our studio at +1 (555) 382-6245, or send a direct message on Instagram. We recommend reserving 1 to 2 weeks in advance for weekend slots.',
+      'You can reserve your visit directly through our online booking form on this website, call or WhatsApp our Indiranagar studio at +91 98450 38262, or send a direct message on Instagram. We recommend reserving 1 to 2 weeks in advance for weekend slots.',
   },
   {
     id: 'faq-6',

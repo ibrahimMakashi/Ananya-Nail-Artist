@@ -1,6 +1,6 @@
 /**
  * Brand Configuration for ANANYA NAIL ATELIER
- * Note: Contact details and statistics are configurable studio placeholders.
+ * Curated for Bengaluru, Karnataka, India
  */
 
 export const brandConfig = {
@@ -8,17 +8,18 @@ export const brandConfig = {
   descriptor: 'NAIL ATELIER',
   fullName: 'ANANYA NAIL ATELIER',
   tagline: 'Your Nails, Your Signature.',
+  city: 'Bengaluru, India',
   
   // Announcement banner text
-  announcement: 'YOUR MOMENT OF BEAUTY — BOOK YOUR NEXT NAIL APPOINTMENT',
+  announcement: 'YOUR MOMENT OF BEAUTY — BOOK YOUR NEXT ATELIER VISIT IN BENGALURU',
   announcementLinkText: 'RESERVE NOW',
   
   // Hero section copy
   hero: {
-    eyebrow: 'WELCOME TO ANANYA NAIL ATELIER',
+    eyebrow: 'WELCOME TO ANANYA NAIL ATELIER • BENGALURU',
     headline: 'Our Awesome Nail Studio',
     paragraph:
-      'Beautiful nails are more than a finishing touch. Discover thoughtful nail care, exquisite designs, and a little moment of luxury made just for you.',
+      'Beautiful nails are more than a finishing touch. Discover thoughtful nail care, exquisite designs, and a little moment of luxury made just for you in Indiranagar.',
     primaryCta: 'EXPLORE OUR SERVICES',
     secondaryCta: 'BOOK YOUR VISIT',
   },
@@ -28,7 +29,7 @@ export const brandConfig = {
     eyebrow: 'THE ART OF NAILS',
     heading: 'Beauty in Every Little Detail',
     paragraph:
-      'At ANANYA Nail Atelier, nail artistry is elevated into a refined personal ritual. Every consultation is an intimate dialogue between your unique aesthetic and our meticulous craftsmanship. From organic cuticle therapies to hand-painted couture accents, we cultivate healthy, radiant nails with uncompromising precision and tranquility.',
+      'At ANANYA Nail Atelier, nail artistry is elevated into a refined personal ritual. Located in the heart of Indiranagar, Bengaluru, every consultation is an intimate dialogue between your unique aesthetic and our meticulous craftsmanship. From organic cuticle therapies to hand-painted couture accents, we cultivate healthy, radiant nails with uncompromising precision and tranquility.',
     quoteScript: 'Delicate & Chic',
     stats: [
       { value: '25+', label: 'Bespoke Nail Designs' },
@@ -42,7 +43,7 @@ export const brandConfig = {
     eyebrow: 'WHY CHOOSE US',
     heading: 'The Best Place for a Manicure',
     description:
-      'We combine dermatological nail wellness with cutting-edge runway trends. Step into a sanctuary where luxury meets hygiene, artistry, and serene hospitality.',
+      'We combine dermatological nail wellness with cutting-edge runway trends. Step into our tranquil Bengaluru sanctuary where luxury meets hospital-grade hygiene, bespoke artistry, and serene hospitality.',
     items: [
       {
         title: 'Personalized Nail Care',
@@ -68,7 +69,7 @@ export const brandConfig = {
     eyebrow: 'EXCLUSIVE ATELIER PRIVILEGE',
     heading: 'Your Moment to Shine',
     discount: '40% Discount',
-    condition: 'On selected couture nail art & spa packages for a limited time.',
+    condition: 'On selected couture nail art & spa packages for our Bengaluru atelier guests.',
     cta: 'GET THE OFFER',
   },
 
@@ -78,16 +79,17 @@ export const brandConfig = {
     heading: 'Nourish Your Nails',
     subheading: 'Thoughtful nail care, beautiful details, and a little time just for yourself.',
     description:
-      'Immerse yourself in our tranquil studio sanctuary where precision cuticle therapies meet world-class Japanese gel formulations for unparalleled elegance.',
+      'Immerse yourself in our tranquil studio sanctuary in Indiranagar where precision cuticle therapies meet world-class Japanese gel formulations for unparalleled elegance.',
     cta: 'BOOK YOUR VISIT',
   },
 
-  // Contact details (Configurable placeholders)
+  // Contact details — Targeted for Bengaluru, Karnataka
   contact: {
-    phone: '+1 (555) 382-6245',
-    phoneFormatted: '+1-555-382-6245',
+    phone: '+91 98450 38262',
+    phoneFormatted: '+919845038262',
     email: 'atelier@ananyanails.com',
-    address: 'Studio 14, 450 Atelier Way, Design District, NY 10012',
+    address: 'No. 42, 100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038',
+    landmark: 'Near 12th Main Junction, Indiranagar',
     instagram: 'https://instagram.com/ananyanailatelier',
     instagramHandle: '@ananyanailatelier',
     bookingUrl: '#contact',
@@ -95,9 +97,9 @@ export const brandConfig = {
 
   // Business opening hours
   hours: [
-    { days: 'Monday – Friday', time: '9:00 AM – 7:00 PM' },
-    { days: 'Saturday', time: '10:00 AM – 6:00 PM' },
-    { days: 'Sunday', time: 'Closed / Private Bookings' },
+    { days: 'Monday – Friday', time: '10:00 AM – 8:00 PM' },
+    { days: 'Saturday – Sunday', time: '10:00 AM – 8:30 PM' },
+    { days: 'Tuesday', time: 'Prior Appointments Only' },
   ],
 
   // Social channels

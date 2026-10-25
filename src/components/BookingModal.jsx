@@ -181,7 +181,7 @@ export function BookingModal({
                       required
                       value={formData.phone}
                       onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                      placeholder="+1 (555) 000-0000"
+                      placeholder="+91 98765 43210"
                       className="w-full px-4 py-2.5 rounded-xl bg-white border border-[#E2D8CF] text-sm text-[#302321] focus:outline-none focus:border-[#B65C70]"
                     />
                   </div>
